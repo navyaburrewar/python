@@ -154,13 +154,7 @@ else:
  print("not an palindrome")
 
 
- ###   16
- ## prime or not
- num =29
-if num%1==0 & num%num==0:
-  print("prime")
-else:
-  print("not an prime")  
+ 
 
 
 
