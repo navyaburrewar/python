@@ -13,13 +13,6 @@ else:
 
 ### price of ticket
 
-price=int(input())
-
-if price>=100:
-    print("you can buy the ticket")
-
-else:
-    print("you cant by the ticket")
 
 
 
