@@ -145,9 +145,14 @@ sum =A+B
 print(sum)
 
 
+#### range
+for i in range(1,11):
+    print(i)
 
 
-
+### absolute value which is nothing but positive values 
+num = 31
+print(abs(num))
 
 
 
