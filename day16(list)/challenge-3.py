@@ -31,3 +31,4 @@ print(odd)
 name = ["navyaburrewar"]
 upper=[character.upper() for character in name]
 print(upper)
+
