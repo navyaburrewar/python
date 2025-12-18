@@ -12,4 +12,4 @@ print(names[3][0])
 ## we can also print the letters in the names
 names =("navya","choti","honey",("chikky","chotu"))
 print(names[2][1])
-print(names[3][0][0])
+print(names[3][0][0])  
