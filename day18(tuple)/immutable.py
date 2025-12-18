@@ -1,3 +1,5 @@
-t =(2,5,8)
-t[0]=2
+# t =(2,5,8)
+# t[0]=2
+
+# tuple cannot be modified
 
