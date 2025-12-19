@@ -13,3 +13,5 @@ print(e[-2])
 t=((2,1),(4,3),(5,2))
 soretd_tuple =tuple(sorted(t, key=lambda t: t[1]))
 print(soretd_tuple)
+
+
