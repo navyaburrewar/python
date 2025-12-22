@@ -4,18 +4,18 @@ m ={80,39,58,60}
 
 
 ## union
-n|=m            # |= works like A = A.union(B)
+n|=m            # |= works like n = n.union(m)
 print(n)     
 
 ## intersection
-n&=(m)         # &= works like A = A.intersection({2,3})
+n&=(m)         # &= works like n= n.intersection(m)
 print(n)
 
 ## difference
 n-=(m)
-print(n)       # -= works like A = A.difference({3})
+print(n)       # -= works like n = n.difference(m)
 
 
 # ##Symmetric Difference 
-n^=(m)
+n^=(m)                    # ^= works like n = n.difference(m)
 print(n)
