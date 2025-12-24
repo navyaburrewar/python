@@ -7,6 +7,8 @@
 #     #statment
 # else:
 #     # statment    
+
+
 age =int(input())
 if age>20:
     print ("you can eligible to vote")
