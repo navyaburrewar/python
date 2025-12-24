@@ -12,14 +12,14 @@
 
 ## 2    
 # # Check Positive, Negative, or Zero
-# num =int(input())
+num =int(input( ))
 
-# if num ==0:
-#     print("zero")
-# elif num >0:
-#     print("positive")
-# else :
-#     print("negative") 
+if num ==0:
+    print("zero")
+elif num >0:
+    print("positive")
+else :
+    print("negative") 
 
 
 
@@ -62,29 +62,29 @@
    
 # 6
 ## leap year
-year =2000
-if year%400==0:
-    print("leap year")
-else:
-    print("not an leap year")    
-## A year is leap if divisible by 4 but not by 100, or divisible by 400
+# year =2000
+# if year%400==0:
+#     print("leap year")
+# else:
+#     print("not an leap year")    
+# ## A year is leap if divisible by 4 but not by 100, or divisible by 400
 
-#7
-#Password Validation
-password = "choti"
-if password=="navya":
-    print("access granted")
-else:
-    print("access denied")
+# #7
+# #Password Validation
+# password = "choti"
+# if password=="navya":
+#     print("access granted")
+# else:
+#     print("access denied")
 
-# 8
-# . Divisibility Check
-num =15
-if num%3==0 and num%5==0:
-    print("divisible by both")
-elif num%5==0:
-    print("divisible by 5")
-elif num%3==0 :
-    print("divisible by 3 ")
-else:
-    print("not divisible by both")        
+# # 8
+# # . Divisibility Check
+# num =15
+# if num%3==0 and num%5==0:
+#     print("divisible by both")
+# elif num%5==0:
+#     print("divisible by 5")
+# elif num%3==0 :
+#     print("divisible by 3 ")
+# else:
+#     print("not divisible by both")        
