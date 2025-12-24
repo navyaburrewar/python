@@ -4,7 +4,7 @@
 
     #if statement
     #if–else statement
-    #if–else–if ladder
+    #if–elif-else ladder
     #Nested if statement
     #switch statement (in some languages)
     #Ternary (Conditional) Operator
