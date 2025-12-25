@@ -19,3 +19,20 @@ match day:
         print("a weekday in april")
     case 2|3|6 if month==6:
         print("a weekday in june")    
+
+
+
+ #Character Type Check
+ # Check if a character is uppercase, lowercase, digit, or special character.
+
+ch=input("ENTER A CHARACTER: ")
+if ch.isupper():
+    print("upper")
+elif ch.islower():
+    print("lower")
+elif ch.isdigit():
+    print("digit")
+else:
+    print("special character")        
+
+     
