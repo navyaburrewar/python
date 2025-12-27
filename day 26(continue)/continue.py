@@ -80,4 +80,4 @@ while  i<len(text):
         continue
     print(text[i])
     i+=1
-    
+       
