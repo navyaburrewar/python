@@ -1,74 +1,74 @@
-# ########## string 
+########## string 
 
-# #1
-# ab ="hello"
-# print(len(ab))
-
-
-# ###2
-# name="navyaburrewar"
-# for ch in name:
-#     print(ch)
+#1
+ab ="hello"
+print(len(ab))
 
 
-#     #### 3
-# name ="neha"
-# for ch in name:
-#     print(ch)
-
-#     #### 4
-#     ## checking a string contain  the specific word
-# sentence="she is a good girl"
-# word ="she"
-# ab = "z"
-# print(word in sentence)
-# print(ab in sentence)
-
-# ### 5
-# ## upper case and lower case
-# name ="navya"
-# print(name.upper())
-# print(name.lower())
+###2
+name="navyaburrewar"
+for ch in name:
+    print(ch)
 
 
-# ### 6
-# ## reversing a string using slicing
-# name ="navyaburrewar"
-# rev =name[::-1]
-# print(rev)
+    #### 3
+name ="neha"
+for ch in name:
+    print(ch)
+
+    #### 4
+    ## checking a string contain  the specific word
+sentence="she is a good girl"
+word ="she"
+ab = "z"
+print(word in sentence)
+print(ab in sentence)
+
+### 5
+## upper case and lower case
+name ="navya"
+print(name.upper())
+print(name.lower())
 
 
-# ## 8 
-# ##r indexing 
-# s="12345"
-# print(s[3])
-# print(s[0])
+### 6
+## reversing a string using slicing
+name ="navyaburrewar"
+rev =name[::-1]
+print(rev)
 
 
-# ### slicing
-# s="1234568"   ## slicing is based on the index
-# ab=s[1:8]
-# print(ab)
-# mn =s[3:8]
-# print(mn)
+## 8 
+##r indexing 
+s="12345"
+print(s[3])
+print(s[0])
 
 
-#  ## 9
-# ### concadination
-# a ="navya"
-# b = "burrewar"
-# print( a+b)
+### slicing
+s="1234568"   ## slicing is based on the index
+ab=s[1:8]
+print(ab)
+mn =s[3:8]
+print(mn)
 
 
-# ##10
-# ##another way of concadiantion(appending)
-# m="hello"
-# m +="world"
-# print(m)
+ ## 9
+### concadination
+a ="navya"
+b = "burrewar"
+print( a+b)
 
-# n="navya"
-# n +="burrewar"
-# print(n)
+
+##10
+##another way of concadiantion(appending)
+m="hello"
+m +="world"
+print(m)
+
+n="navya"
+n +="burrewar"
+print(n)
 
 
 

@@ -1,0 +1,1 @@
+##  Print alternating alphabet pattern
