@@ -7,12 +7,5 @@ for i in range(n):
     print()    
 
 
-## full star pyramid 
-
-n=6
-num=1
-for i in range(n):
-    for j in range(i+1):
-        print(" "*(n-i)+(2*i-1))
 
     
