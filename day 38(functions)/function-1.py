@@ -12,7 +12,7 @@ greet()
 
 
 
- ## where we use the  functions
+ ## why we use the  functions ?
 
  # Avoid writing the same code again and again
 # Make programs easier to read
