@@ -3,3 +3,6 @@
 def mul(a,b):
     print(a*b)
 mul(20,39)    
+
+
+

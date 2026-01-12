@@ -18,3 +18,7 @@ greet("choti")
 # --> choti is an arguments
 
 
+#Parameters -->  names in the function definition
+#Arguments --> actual values you give when calling the function
+
+
