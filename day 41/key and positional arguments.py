@@ -20,3 +20,4 @@ def my_func(name, age):
     print(name,age) 
 my_func("navya" , 21)    
 my_func(21,"navya")
+
