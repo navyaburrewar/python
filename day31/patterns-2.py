@@ -1,19 +1,19 @@
 # ##  Print a square of stars (size 4×4).
 
 
-# for i in range(5):
-#    print("*"*4)
+for i in range(5):
+   print("*"*4)
 
 
-# ## 2
-# ## another way of the  printing the stars
-# for i in range(5):
-#  for j in range(5): 
-#      print("*", end="") 
-#  print()
+## 2
+## another way of the  printing the stars
+for i in range(5):
+ for j in range(5): 
+     print("*", end="") 
+ print()
 
 
-### 3
+# ### 3
 ## Rectangle pattern (3 rows, 6 columns)
 for i in range(3):
    for j in range(6):
@@ -22,8 +22,8 @@ for i in range(3):
 
 
 
-### 4
-#   Right-angled triangle (5 rows)
+# ### 4
+#Right-angled triangle (5 rows)
 for i in range(6):
    print("*"*i)
 
