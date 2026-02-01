@@ -5,3 +5,4 @@
 # Inside map()
 # Inside filter()
 # Inside sorted()
+# reduced()
