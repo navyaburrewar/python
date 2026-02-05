@@ -18,3 +18,20 @@ def function(m):
 # print(next(gen))
 # print(next(gen))
 # print(next(gen))
+
+
+
+
+
+# When Does It Actually Matter?
+
+# Generators help when:
+
+# 1 million values
+# 10 million values
+# Reading large files
+# Big dataset
+# Infinite 
+
+
+## not help in small code
